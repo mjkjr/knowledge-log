@@ -51,9 +51,11 @@ The following is a self-assessment of my current skills.
 |        |          |              |    ✔️    | Bash       |
 |        |          |              |          | Rust       |
 
-## Frameworks
+### Frameworks
 | Expert | Advanced | Intermediate | Beginner | Skill      |
 |:------:|:--------:|:------------:|:--------:| ---------- |
+|        |          |              |          | React      |
+|        |          |              |          | Redux      |
 |        |          |              |          | Three.js   |
 
 ### Tools
@@ -70,18 +72,18 @@ Outline of my past, current, and future coursework.
 
 > 📝 **Note:** *This section is still under it's initial construction.*
 
-|       Provider       | Course                                                                |  Started   | Completed  |      Status      |
-|:--------------------:|:--------------------------------------------------------------------- |:----------:|:----------:|:----------------:|
-| [freeCodeCamp][fcc]  | [Responsive Web Design Certification][fcc01-view]                     | 2022-02-15 | 2022-02-20 | [✔️][fcc01-cert] |
-| [freeCodeCamp][fcc]  | [JavaScript Algorithms and Data Structures Certification][fcc02-view] | 2022-02-20 | 2022-03-07 | [✔️][fcc02-cert] |
-| [freeCodeCamp][fcc]  | [Front End Development Libraries Certification][fcc03-view]           | 2022-03-07 |            | [⏳][fcc]         |
-| [freeCodeCamp][fcc]  | [Data Visualization Certification][fcc04-view]                        |            |            |                  |
-| [freeCodeCamp][fcc]  | [Back End Development and APIs Certification][fcc05-view]             |            |            |                  |
-| [freeCodeCamp][fcc]  | [Quality Assurance Certification][fcc06-view]                         |            |            |                  |
-| [freeCodeCamp][fcc]  | [Scientific Computing with Python Certification][fcc07-view]          |            |            |                  |
-| [freeCodeCamp][fcc]  | [Data Analysis with Python Certification][fcc08-view]                 |            |            |                  |
-| [freeCodeCamp][fcc]  | [Information Security Certification][fcc09-view]                      |            |            |                  |
-| [freeCodeCamp][fcc]  | [Machine Learning with Python Certification][fcc10-view]              |            |            |                  |
+| Course                                                                |  Started   | Completed  |      Status      |
+|:--------------------------------------------------------------------- |:----------:|:----------:|:----------------:|
+| [Responsive Web Design Certification][fcc01-view]                     | 2022-02-15 | 2022-02-20 | [✔️][fcc01-cert] |
+| [JavaScript Algorithms and Data Structures Certification][fcc02-view] | 2022-02-20 | 2022-03-07 | [✔️][fcc02-cert] |
+| [Front End Development Libraries Certification][fcc03-view]           | 2022-03-07 |            | [⏳][fcc]         |
+| [Data Visualization Certification][fcc04-view]                        |            |            |                  |
+| [Back End Development and APIs Certification][fcc05-view]             |            |            |                  |
+| [Quality Assurance Certification][fcc06-view]                         |            |            |                  |
+| [Scientific Computing with Python Certification][fcc07-view]          |            |            |                  |
+| [Data Analysis with Python Certification][fcc08-view]                 |            |            |                  |
+| [Information Security Certification][fcc09-view]                      |            |            |                  |
+| [Machine Learning with Python Certification][fcc10-view]              |            |            |                  |
 
 <br>
 
@@ -110,7 +112,7 @@ Outline of my past, current, and future coursework.
 
 ## Acknowledgments
 
-Inspired by [Sky Houdeib's Learning Tracker](https://github.com/Syknapse/My-Learning-Tracker).
+This project was inspired by [Sky Houdeib's Learning Tracker](https://github.com/Syknapse/My-Learning-Tracker).
 
 **Thank you to all of the educational resource providers for sharing your
 knowledge.**
