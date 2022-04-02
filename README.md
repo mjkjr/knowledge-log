@@ -55,7 +55,7 @@ The following is a self-assessment of my current skills.
 | Expert | Advanced | Intermediate | Beginner | Skill      |
 |:------:|:--------:|:------------:|:--------:| ---------- |
 |        |          |      ✔️       |    ✔️    | Bootstrap  |
-|        |          |              |    ✔️    | jQuery     |
+|        |          |      ✔️       |    ✔️    | jQuery     |
 |        |          |              |    ✔️    | React      |
 |        |          |              |    ✔️    | Redux      |
 |        |          |              |          | Three.js   |
