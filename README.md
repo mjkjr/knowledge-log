@@ -9,9 +9,16 @@ A log of my self-directed learnings and the skills I've developed along the way.
 
 Hi, I'm Michael J. Kozubal Jr. and I'm an entrepreneur and software developer.
 
+I own and operate a custom apparel decoration, signage, printing, & vehicle wrap
+[business](https://shirtsandsigns.us).
+
+Currently, I'm working on developing the necessary skills required to make a
+career change into the field of software development.
+
 You can contact me via: [my personal website](https://mjkjr.com).
 
-My Profiles:
+---
+
 [GitHub](https://github.com/mjkjr) |
 [CodePen](https://codepen.io/mjkjr/) |
 [freeCodeCamp](https://www.freecodecamp.org/mjkjr) |
