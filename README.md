@@ -105,7 +105,9 @@ The following is a self-assessment of my current skills.
 
 Outline of my past, current, and future coursework.
 
-> 📝 **Note:** *This section is still under it's initial construction.*
+> 📝 **Note:** The indicators under the "Status" column link to either
+> certificates (where applicable), or my relevant profile page reflecting my
+> current progress.
 
 | Course                                                                |  Started   | Completed  |      Status      |
 |:--------------------------------------------------------------------- |:----------:|:----------:|:----------------:|
@@ -125,18 +127,14 @@ Outline of my past, current, and future coursework.
 | [Edabit](https://edabit.com/)                                         |            |            |                  |
 | [JSRobot](https://lab.reaal.me/jsrobot/)                              |            |            |                  |
 
-> 📝 **Todo:** Choose courses from [Skynapse's Resources](https://github.com/Syknapse/resources) to take next
-
 <br>
 
 ## 📑 Additional Educational Resources & References
 
 Links to useful references, tools, articles, etc for future reference.
 
-I'm omitting obvious resources such as reference websites that would appear at
-the top of a google search.
-
-> 📝 **Note:** *This section is still under it's initial construction.*
+> 📝 **Note:** I'm omitting obvious resources such as reference websites that
+> would appear at the top of a google search.
 
 ### General
 
