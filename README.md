@@ -109,23 +109,23 @@ Outline of my past, current, and future coursework.
 > certificates (where applicable), or my relevant profile page reflecting my
 > current progress.
 
-| Course                                                                |  Started   | Completed  |      Status      |
-|:--------------------------------------------------------------------- |:----------:|:----------:|:----------------:|
-| [Responsive Web Design Certification][fcc01-view]                     | 2022-02-15 | 2022-02-20 | [✔️][fcc01-cert] |
-| [JavaScript Algorithms and Data Structures Certification][fcc02-view] | 2022-02-20 | 2022-03-07 | [✔️][fcc02-cert] |
-| [Front End Development Libraries Certification][fcc03-view]           | 2022-03-07 |            | [⏳][fcc]         |
-| [Data Visualization Certification][fcc04-view]                        |            |            |                  |
-| [Back End Development and APIs Certification][fcc05-view]             |            |            |                  |
-| [Quality Assurance Certification][fcc06-view]                         |            |            |                  |
-| [Scientific Computing with Python Certification][fcc07-view]          |            |            |                  |
-| [Data Analysis with Python Certification][fcc08-view]                 |            |            |                  |
-| [Information Security Certification][fcc09-view]                      |            |            |                  |
-| [Machine Learning with Python Certification][fcc10-view]              |            |            |                  |
-| [Codewars](https://www.codewars.com/)                                 | 2022-04-05 |     -      | [Ongoing](https://www.codewars.com/users/mjkjr) |
-| [The Odin Project](https://www.theodinproject.com/)                   |            |            |                  |
-| [Bento](https://bento.io/tracks)                                      |            |            |                  |
-| [Edabit](https://edabit.com/)                                         |            |            |                  |
-| [JSRobot](https://lab.reaal.me/jsrobot/)                              |            |            |                  |
+| Course                                                                |  Started   | Completed  |             Status             |
+|:--------------------------------------------------------------------- |:----------:|:----------:|:------------------------------:|
+| [Responsive Web Design Certification][fcc01-view]                     | 2022-02-15 | 2022-02-20 | [✔️ (Certificate)][fcc01-cert] |
+| [JavaScript Algorithms and Data Structures Certification][fcc02-view] | 2022-02-20 | 2022-03-07 | [✔️ (Certificate)][fcc02-cert] |
+| [Front End Development Libraries Certification][fcc03-view]           | 2022-03-07 |            | [⏳ (WIP)][fcc]                 |
+| [Data Visualization Certification][fcc04-view]                        |            |            |                                |
+| [Back End Development and APIs Certification][fcc05-view]             |            |            |                                |
+| [Quality Assurance Certification][fcc06-view]                         |            |            |                                |
+| [Scientific Computing with Python Certification][fcc07-view]          |            |            |                                |
+| [Data Analysis with Python Certification][fcc08-view]                 |            |            |                                |
+| [Information Security Certification][fcc09-view]                      |            |            |                                |
+| [Machine Learning with Python Certification][fcc10-view]              |            |            |                                |
+| [Codewars](https://www.codewars.com/)                                 | 2022-04-05 |     -      | [Ongoing][codewars]            |
+| [The Odin Project](https://www.theodinproject.com/)                   |            |            |                                |
+| [Bento](https://bento.io/tracks)                                      |            |            |                                |
+| [Edabit](https://edabit.com/)                                         |            |            |                                |
+| [JSRobot](https://lab.reaal.me/jsrobot/)                              |            |            |                                |
 
 <br>
 
@@ -193,5 +193,7 @@ knowledge.**
 [fcc09-cert]: #
 [fcc10-view]: https://www.freecodecamp.org/learn/machine-learning-with-python/
 [fcc10-cert]: #
+
+[codewars]: https://www.codewars.com/users/mjkjr
 
 [rcs]: https://github.com/AbdesamedBendjeddou/Rusty-CS
