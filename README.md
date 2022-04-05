@@ -9,7 +9,31 @@ A log of my self-directed learnings and the skills I've developed along the way.
 
 Hi, I'm Michael J. Kozubal Jr. and I'm an entrepreneur and software developer.
 
-You can contact me via [my personal website](https://mjkjr.com).
+You can contact me via: [my personal website](https://mjkjr.com).
+
+My Profiles:
+[GitHub](https://github.com/mjkjr) |
+[CodePen](https://codepen.io/mjkjr/) |
+[freeCodeCamp](https://www.freecodecamp.org/mjkjr) |
+[Codewars](https://www.codewars.com/users/mjkjr) |
+[LinkedIn](https://www.linkedin.com/in/mjkjr/)
+
+---
+
+<br>
+
+## 🏆 Goals
+
+My initial goal with this project is to develop the necessary skills to make a
+career change into the field of software development. More specifically: my
+*ideal* position would be one in the video game industry. However, a career in
+web development is also of interest to me.
+
+After achieving my initial goal this project will continue to serve as an
+ongoing log of my continued skill development.
+
+As such, this project exists as a sort of "living resumé" for potential
+employers and showcases my current skills and how I attained them.
 
 ---
 
@@ -61,14 +85,23 @@ The following is a self-assessment of my current skills.
 |        |          |              |          | Three.js   |
 
 ### Tools
-| Expert | Advanced | Intermediate | Beginner | Skill              |
-|:------:|:--------:|:------------:|:--------:| ------------------ |
-|        |          |      ✔️       |    ✔️    | Git                |
-|        |          |              |    ✔️    | Visual Studio Code |
+| Expert | Advanced | Intermediate | Beginner | Skill                  |
+|:------:|:--------:|:------------:|:--------:| ---------------------- |
+|        |          |      ✔️       |    ✔️    | Git                    |
+|        |          |              |    ✔️    | Visual Studio Code     |
+|        |          |      ✔️       |    ✔️    | Chrome Developer Tools |
+|        |    ✔️     |      ✔️       |    ✔️    | Adobe Illustrator      |
+|        |          |      ✔️       |    ✔️    | Adobe Photoshop        |
+
+### Operating Systems
+| Expert | Advanced | Intermediate | Beginner | Skill                  |
+|:------:|:--------:|:------------:|:--------:| ---------------------- |
+|        |    ✔️     |      ✔️       |    ✔️    | Windows                |
+|        |          |      ✔️       |    ✔️    | Ubuntu                 |
 
 <br>
 
-## 🎓 Courses & Certifications
+## 🎓 Courses, Exercises, & Certifications
 
 Outline of my past, current, and future coursework.
 
@@ -86,19 +119,33 @@ Outline of my past, current, and future coursework.
 | [Data Analysis with Python Certification][fcc08-view]                 |            |            |                  |
 | [Information Security Certification][fcc09-view]                      |            |            |                  |
 | [Machine Learning with Python Certification][fcc10-view]              |            |            |                  |
+| [Codewars](https://www.codewars.com/)                                 | 2022-04-05 |     -      | [Ongoing](https://www.codewars.com/users/mjkjr) |
+| [The Odin Project](https://www.theodinproject.com/)                   |            |            |                  |
+| [Bento](https://bento.io/tracks)                                      |            |            |                  |
+| [Edabit](https://edabit.com/)                                         |            |            |                  |
+| [JSRobot](https://lab.reaal.me/jsrobot/)                              |            |            |                  |
+
+> 📝 **Todo:** Choose courses from [Skynapse's Resources](https://github.com/Syknapse/resources) to take next
 
 <br>
 
-## 📑 Additional Eduational Resources & References
+## 📑 Additional Educational Resources & References
+
+Links to useful references, tools, articles, etc for future reference.
+
+I'm omitting obvious resources such as reference websites that would appear at
+the top of a google search.
 
 > 📝 **Note:** *This section is still under it's initial construction.*
 
 ### General
 
-- [Markdown Guide](https://www.markdownguide.org/)
+- [Skynapse's Resources](https://github.com/Syknapse/resources)
 
 ### Web Development
 
+- [Learn JS Design Patterns (book)](https://addyosmani.com/resources/essentialjsdesignpatterns/book/)
+- [JS: The Right Way](http://jstherightway.org/)
 - [Front-End Checklist](https://github.com/Syknapse/Front-End-Checklist)
 - [pNPM](https://pnpm.io/): Fast, disk space efficient package manager
 - [Composer](https://getcomposer.org/): A Dependency Manager for PHP
@@ -108,11 +155,16 @@ Outline of my past, current, and future coursework.
 
 - [Three.js](https://threejs.org/)
 
+### Getting Hired
+
+- [HackerRank](https://www.hackerrank.com/)
+- [coderbyte](https://coderbyte.com/)
+
 <br>
 
 ---
 
-## Acknowledgments
+## 👋 Acknowledgments
 
 This project was inspired by [Sky Houdeib's Learning Tracker](https://github.com/Syknapse/My-Learning-Tracker).
 
