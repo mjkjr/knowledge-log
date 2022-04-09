@@ -71,9 +71,9 @@ The following is a self-assessment of my current skills.
 
 | Skills                 | Beginner | Intermediate | Advanced | Expert |
 | ---------------------- |:--------:|:------------:|:--------:|:------:|
-| `CONCEPTS`
+| **CONCEPTS**
 | Regular Expressions    |    ✔️    |      ✔️      |          |        |
-| `LANGUAGES`
+| **LANGUAGES**
 | Markdown               |    ✔️    |      ✔️      |     ✔️     |        |
 | HTML                   |    ✔️    |      ✔️      |     ✔️     |        |
 | CSS                    |    ✔️    |      ✔️      |          |        |
@@ -84,20 +84,20 @@ The following is a self-assessment of my current skills.
 | Python                 |    ✔️    |              |          |        |
 | Bash                   |    ✔️    |              |          |        |
 | Rust                   |          |              |          |        |
-| `FRAMEWORKS`
+| **FRAMEWORKS**
 | Bootstrap              |    ✔️    |      ✔️       |          |        |
 | jQuery                 |    ✔️    |      ✔️       |          |        |
 | React                  |    ✔️    |              |          |        |
 | Redux                  |    ✔️    |              |          |        |
 | Three.js               |          |              |          |        |
-| `TOOLS`
+| **TOOLS**
 | Git                    |    ✔️    |      ✔️      |          |        |
 | Visual Studio Code     |    ✔️    |              |          |        |
 | Javascript Console     |    ✔️    |      ✔️      |          |        |
 | Chrome Developer Tools |    ✔️    |      ✔️      |          |        |
 | Adobe Illustrator      |    ✔️    |      ✔️      |    ✔️    |        |
 | Adobe Photoshop        |    ✔️    |      ✔️      |          |        |
-| `OPERATING SYSTEMS`
+| **OPERATING SYSTEMS**
 | Windows                |    ✔️    |      ✔️      |    ✔️    |        |
 | Linux (ubuntu)         |    ✔️    |      ✔️      |          |        |
 
