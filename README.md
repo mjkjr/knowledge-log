@@ -23,6 +23,7 @@ You can contact me via: [my personal website](https://mjkjr.com).
 [CodePen](https://codepen.io/mjkjr/) |
 [freeCodeCamp](https://www.freecodecamp.org/mjkjr) |
 [Codewars](https://www.codewars.com/users/mjkjr) |
+[Edabit](https://edabit.com/user/4QXooTfP97tnnBkHb) |
 [LinkedIn](https://www.linkedin.com/in/mjkjr/)
 
 ---
@@ -68,43 +69,44 @@ The following is a self-assessment of my current skills.
 
 > 📝 **Note:** *This section is still under it's initial construction.*
 
-### Languages
-| Expert | Advanced | Intermediate | Beginner | Skill      |
-|:------:|:--------:|:------------:|:--------:| ---------- |
-|        |    ✔️    |      ✔️       |    ✔️    | Markdown   |
-|        |    ✔️    |      ✔️       |    ✔️    | HTML       |
-|        |          |      ✔️       |    ✔️    | CSS        |
-|        |          |      ✔️       |    ✔️    | Javascript |
-|        |          |      ✔️       |    ✔️    | PHP        |
-|        |          |      ✔️       |    ✔️    | C++        |
-|        |          |              |    ✔️    | Lua        |
-|        |          |              |    ✔️    | Python     |
-|        |          |              |    ✔️    | Bash       |
-|        |          |              |          | Rust       |
+| Concept             | Beginner | Intermediate | Advanced | Expert |
+| ------------------- |:--------:|:------------:|:--------:|:------:|
+| Regular Expressions |    ✔️    |      ✔️      |          |        |
 
-### Frameworks
-| Expert | Advanced | Intermediate | Beginner | Skill      |
-|:------:|:--------:|:------------:|:--------:| ---------- |
-|        |          |      ✔️       |    ✔️    | Bootstrap  |
-|        |          |      ✔️       |    ✔️    | jQuery     |
-|        |          |              |    ✔️    | React      |
-|        |          |              |    ✔️    | Redux      |
-|        |          |              |          | Three.js   |
+| Language   | Beginner | Intermediate | Advanced | Expert |
+| ---------- |:--------:|:------------:|:--------:|:------:|
+| Markdown   |    ✔️    |      ✔️      |     ✔️     |        |
+| HTML       |    ✔️    |      ✔️      |     ✔️     |        |
+| CSS        |    ✔️    |      ✔️      |          |        |
+| Javascript |    ✔️    |      ✔️      |          |        |
+| PHP        |    ✔️    |      ✔️      |          |        |
+| C++        |    ✔️    |      ✔️      |          |        |
+| Lua        |    ✔️    |              |          |        |
+| Python     |    ✔️    |              |          |        |
+| Bash       |    ✔️    |              |          |        |
+| Rust       |          |              |          |        |
 
-### Tools
-| Expert | Advanced | Intermediate | Beginner | Skill                  |
-|:------:|:--------:|:------------:|:--------:| ---------------------- |
-|        |          |      ✔️       |    ✔️    | Git                    |
-|        |          |              |    ✔️    | Visual Studio Code     |
-|        |          |      ✔️       |    ✔️    | Chrome Developer Tools |
-|        |    ✔️     |      ✔️       |    ✔️    | Adobe Illustrator      |
-|        |          |      ✔️       |    ✔️    | Adobe Photoshop        |
+| Framework  | Beginner | Intermediate | Advanced | Expert |
+| ---------- |:--------:|:------------:|:--------:|:------:|
+| Bootstrap  |    ✔️    |      ✔️       |          |        |
+| jQuery     |    ✔️    |      ✔️       |          |        |
+| React      |    ✔️    |              |          |        |
+| Redux      |    ✔️    |              |          |        |
+| Three.js   |          |              |          |        |
 
-### Operating Systems
-| Expert | Advanced | Intermediate | Beginner | Skill                  |
-|:------:|:--------:|:------------:|:--------:| ---------------------- |
-|        |    ✔️     |      ✔️       |    ✔️    | Windows                |
-|        |          |      ✔️       |    ✔️    | Ubuntu                 |
+| Tool                   | Beginner | Intermediate | Advanced | Expert |
+| ---------------------- |:--------:|:------------:|:--------:|:------:|
+| Git                    |    ✔️    |      ✔️      |          |        |
+| Visual Studio Code     |    ✔️    |              |          |        |
+| Javascript Console     |    ✔️    |      ✔️      |          |        |
+| Chrome Developer Tools |    ✔️    |      ✔️      |          |        |
+| Adobe Illustrator      |    ✔️    |      ✔️      |    ✔️    |        |
+| Adobe Photoshop        |    ✔️    |      ✔️      |          |        |
+
+| Operating System | Beginner | Intermediate | Advanced | Expert |
+| ---------------- |:--------:|:------------:|:--------:|:------:|
+| Windows          |    ✔️    |      ✔️      |    ✔️    |        |
+| Linux (ubuntu)   |    ✔️    |      ✔️      |          |        |
 
 <br>
 
@@ -129,10 +131,10 @@ Outline of my past, current, and future coursework.
 | [Information Security Certification][fcc09-view]                      |            |            |                                |
 | [Machine Learning with Python Certification][fcc10-view]              |            |            |                                |
 | [Codewars](https://www.codewars.com/)                                 | 2022-04-05 |     -      | [Ongoing][codewars]            |
+| [Edabit](https://edabit.com/)                                         | 2022-04-09 |            | [Ongoing][edabit]              |
+| [JSRobot](https://lab.reaal.me/jsrobot/)                              | 2022-04-09 |            | Completed Level 6              |
 | [The Odin Project](https://www.theodinproject.com/)                   |            |            |                                |
 | [Bento](https://bento.io/tracks)                                      |            |            |                                |
-| [Edabit](https://edabit.com/)                                         |            |            |                                |
-| [JSRobot](https://lab.reaal.me/jsrobot/)                              |            |            |                                |
 
 <br>
 
@@ -201,6 +203,9 @@ knowledge.**
 [fcc10-view]: https://www.freecodecamp.org/learn/machine-learning-with-python/
 [fcc10-cert]: #
 
-[codewars]: https://www.codewars.com/users/mjkjr
-
 [rcs]: https://github.com/AbdesamedBendjeddou/Rusty-CS
+
+[Profile links]: #
+
+[codewars]: https://www.codewars.com/users/mjkjr
+[edabit]: https://edabit.com/user/4QXooTfP97tnnBkHb

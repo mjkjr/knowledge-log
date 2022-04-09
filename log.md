@@ -6,6 +6,23 @@ The daily digest of my self-directed learnings.
 
 ---
 
+## 9 April 2022
+
+Today I warmed up by registered an account on
+[Edabit](https://edabit.com/user/4QXooTfP97tnnBkHb) and doing some of the
+challenge problems there. I added my new Edabit profile to my profile links.
+Then I did a few problems on codewars.
+
+I improved the formatting of the tables in the
+[skills assessment](./README.md#💻-skills) section of the Knowledge Log.
+
+Finally, I worked through the first 6 levels of JSRobot.
+
+For my next session I want to complete the next freeCodeCamp Front End
+Development Libraries project which is a Markdown previewer.
+
+---
+
 ## 5 April 2022
 
 Today I spent some time going through
