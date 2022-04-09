@@ -69,44 +69,37 @@ The following is a self-assessment of my current skills.
 
 > 📝 **Note:** *This section is still under it's initial construction.*
 
-| Concept             | Beginner | Intermediate | Advanced | Expert |
-| ------------------- |:--------:|:------------:|:--------:|:------:|
-| Regular Expressions |    ✔️    |      ✔️      |          |        |
-
-| Language   | Beginner | Intermediate | Advanced | Expert |
-| ---------- |:--------:|:------------:|:--------:|:------:|
-| Markdown   |    ✔️    |      ✔️      |     ✔️     |        |
-| HTML       |    ✔️    |      ✔️      |     ✔️     |        |
-| CSS        |    ✔️    |      ✔️      |          |        |
-| Javascript |    ✔️    |      ✔️      |          |        |
-| PHP        |    ✔️    |      ✔️      |          |        |
-| C++        |    ✔️    |      ✔️      |          |        |
-| Lua        |    ✔️    |              |          |        |
-| Python     |    ✔️    |              |          |        |
-| Bash       |    ✔️    |              |          |        |
-| Rust       |          |              |          |        |
-
-| Framework  | Beginner | Intermediate | Advanced | Expert |
-| ---------- |:--------:|:------------:|:--------:|:------:|
-| Bootstrap  |    ✔️    |      ✔️       |          |        |
-| jQuery     |    ✔️    |      ✔️       |          |        |
-| React      |    ✔️    |              |          |        |
-| Redux      |    ✔️    |              |          |        |
-| Three.js   |          |              |          |        |
-
-| Tool                   | Beginner | Intermediate | Advanced | Expert |
+| Skill                  | Beginner | Intermediate | Advanced | Expert |
 | ---------------------- |:--------:|:------------:|:--------:|:------:|
+| **Concept**            |          |              |          |        |
+| Regular Expressions    |    ✔️    |      ✔️      |          |        |
+| **Language**           | Beginner | Intermediate | Advanced | Expert |
+| Markdown               |    ✔️    |      ✔️      |     ✔️     |        |
+| HTML                   |    ✔️    |      ✔️      |     ✔️     |        |
+| CSS                    |    ✔️    |      ✔️      |          |        |
+| Javascript             |    ✔️    |      ✔️      |          |        |
+| PHP                    |    ✔️    |      ✔️      |          |        |
+| C++                    |    ✔️    |      ✔️      |          |        |
+| Lua                    |    ✔️    |              |          |        |
+| Python                 |    ✔️    |              |          |        |
+| Bash                   |    ✔️    |              |          |        |
+| Rust                   |          |              |          |        |
+| **Framework**          | Beginner | Intermediate | Advanced | Expert |
+| Bootstrap              |    ✔️    |      ✔️       |          |        |
+| jQuery                 |    ✔️    |      ✔️       |          |        |
+| React                  |    ✔️    |              |          |        |
+| Redux                  |    ✔️    |              |          |        |
+| Three.js               |          |              |          |        |
+| **Tool**               | Beginner | Intermediate | Advanced | Expert |
 | Git                    |    ✔️    |      ✔️      |          |        |
 | Visual Studio Code     |    ✔️    |              |          |        |
 | Javascript Console     |    ✔️    |      ✔️      |          |        |
 | Chrome Developer Tools |    ✔️    |      ✔️      |          |        |
 | Adobe Illustrator      |    ✔️    |      ✔️      |    ✔️    |        |
 | Adobe Photoshop        |    ✔️    |      ✔️      |          |        |
-
-| Operating System | Beginner | Intermediate | Advanced | Expert |
-| ---------------- |:--------:|:------------:|:--------:|:------:|
-| Windows          |    ✔️    |      ✔️      |    ✔️    |        |
-| Linux (ubuntu)   |    ✔️    |      ✔️      |          |        |
+| **Operating System**   | Beginner | Intermediate | Advanced | Expert |
+| Windows                |    ✔️    |      ✔️      |    ✔️    |        |
+| Linux (ubuntu)         |    ✔️    |      ✔️      |          |        |
 
 <br>
 
