@@ -71,9 +71,9 @@ The following is a self-assessment of my current skills.
 
 | Skills                 | Beginner | Intermediate | Advanced | Expert |
 | ---------------------- |:--------:|:------------:|:--------:|:------:|
-| `CONCEPTS`             | Beginner | Intermediate | Advanced | Expert |
+| `CONCEPTS`
 | Regular Expressions    |    ✔️    |      ✔️      |          |        |
-| `LANGUAGES`            | Beginner | Intermediate | Advanced | Expert |
+| `LANGUAGES`
 | Markdown               |    ✔️    |      ✔️      |     ✔️     |        |
 | HTML                   |    ✔️    |      ✔️      |     ✔️     |        |
 | CSS                    |    ✔️    |      ✔️      |          |        |
@@ -84,20 +84,20 @@ The following is a self-assessment of my current skills.
 | Python                 |    ✔️    |              |          |        |
 | Bash                   |    ✔️    |              |          |        |
 | Rust                   |          |              |          |        |
-| `FRAMEWORKS`           | Beginner | Intermediate | Advanced | Expert |
+| `FRAMEWORKS`
 | Bootstrap              |    ✔️    |      ✔️       |          |        |
 | jQuery                 |    ✔️    |      ✔️       |          |        |
 | React                  |    ✔️    |              |          |        |
 | Redux                  |    ✔️    |              |          |        |
 | Three.js               |          |              |          |        |
-| `TOOLS`                | Beginner | Intermediate | Advanced | Expert |
+| `TOOLS`
 | Git                    |    ✔️    |      ✔️      |          |        |
 | Visual Studio Code     |    ✔️    |              |          |        |
 | Javascript Console     |    ✔️    |      ✔️      |          |        |
 | Chrome Developer Tools |    ✔️    |      ✔️      |          |        |
 | Adobe Illustrator      |    ✔️    |      ✔️      |    ✔️    |        |
 | Adobe Photoshop        |    ✔️    |      ✔️      |          |        |
-| `OPERATING SYSTEMS`    | Beginner | Intermediate | Advanced | Expert |
+| `OPERATING SYSTEMS`
 | Windows                |    ✔️    |      ✔️      |    ✔️    |        |
 | Linux (ubuntu)         |    ✔️    |      ✔️      |          |        |
 
