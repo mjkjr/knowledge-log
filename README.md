@@ -71,9 +71,9 @@ The following is a self-assessment of my current skills.
 
 | Skill                  | Beginner | Intermediate | Advanced | Expert |
 | ---------------------- |:--------:|:------------:|:--------:|:------:|
-| **Concept**            |          |              |          |        |
+| **CONCEPTS**           |          |              |          |        |
 | Regular Expressions    |    ✔️    |      ✔️      |          |        |
-| **Language**           | Beginner | Intermediate | Advanced | Expert |
+| **LANGUAGES**          | Beginner | Intermediate | Advanced | Expert |
 | Markdown               |    ✔️    |      ✔️      |     ✔️     |        |
 | HTML                   |    ✔️    |      ✔️      |     ✔️     |        |
 | CSS                    |    ✔️    |      ✔️      |          |        |
@@ -84,20 +84,20 @@ The following is a self-assessment of my current skills.
 | Python                 |    ✔️    |              |          |        |
 | Bash                   |    ✔️    |              |          |        |
 | Rust                   |          |              |          |        |
-| **Framework**          | Beginner | Intermediate | Advanced | Expert |
+| **FRAMEWORKS**         | Beginner | Intermediate | Advanced | Expert |
 | Bootstrap              |    ✔️    |      ✔️       |          |        |
 | jQuery                 |    ✔️    |      ✔️       |          |        |
 | React                  |    ✔️    |              |          |        |
 | Redux                  |    ✔️    |              |          |        |
 | Three.js               |          |              |          |        |
-| **Tool**               | Beginner | Intermediate | Advanced | Expert |
+| **TOOLS**              | Beginner | Intermediate | Advanced | Expert |
 | Git                    |    ✔️    |      ✔️      |          |        |
 | Visual Studio Code     |    ✔️    |              |          |        |
 | Javascript Console     |    ✔️    |      ✔️      |          |        |
 | Chrome Developer Tools |    ✔️    |      ✔️      |          |        |
 | Adobe Illustrator      |    ✔️    |      ✔️      |    ✔️    |        |
 | Adobe Photoshop        |    ✔️    |      ✔️      |          |        |
-| **Operating System**   | Beginner | Intermediate | Advanced | Expert |
+| **OPERATING SYSTEMS**  | Beginner | Intermediate | Advanced | Expert |
 | Windows                |    ✔️    |      ✔️      |    ✔️    |        |
 | Linux (ubuntu)         |    ✔️    |      ✔️      |          |        |
 
