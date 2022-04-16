@@ -73,6 +73,7 @@ The following is a self-assessment of my current skills.
 | ---------------------- |:--------:|:------------:|:--------:|:------:|
 | **CONCEPTS**
 | Regular Expressions    |    ✔️    |      ✔️      |          |        |
+| Big-O Notation         |          |              |          |        |
 | **LANGUAGES**
 | Markdown               |    ✔️    |      ✔️      |     ✔️     |        |
 | HTML                   |    ✔️    |      ✔️      |     ✔️     |        |

@@ -6,6 +6,19 @@ The daily digest of my self-directed learnings.
 
 ---
 
+## 16 April 2022
+
+Today I finished my
+[Markdown Previewer project](https://codepen.io/mjkjr/full/gOovJga) as a part of
+the freeCodeCamp Front-End Development Libraries certification. The previewer is
+built with React as taught in the course and the layout is done with CSS grid
+including a media breakpoint to automatically switch from a side-by-side layout
+on wider screens to a top-and-bottom layout on more narrow screens. The project
+is pretty straight-forward and uses a third-party library for converting the
+raw input into html.
+
+---
+
 ## 9 April 2022
 
 Today I warmed up by registered an account on
