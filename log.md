@@ -6,6 +6,32 @@ The daily digest of my self-directed learnings.
 
 ---
 
+## 18 April 2022
+
+Today I worked on and finished the next
+[freeCodeCamp project](https://codepen.io/mjkjr/full/jOYXGVZ) toward the
+Front-End Development Libraries certification, which is a simple "Drum Machine"
+app. That leaves only 2 small projects left for this certification, and my goal
+will be to finish those both before the end of this week.
+
+I also updated the [Goals](./README.md#🏆-goals) section of the Knowledge Log to
+include the goal of converting my existing brick-and-mortar business into an
+online-only e-commerce shop. This milestone will serve a dual-purpose: 1. it
+will free up my time by automating much of my current workload associated with
+running the business while preserving it as an income stream, and 2. it will
+serve as an excellent learning experience and portfolio piece.
+
+The current iteration of the website is created using a custom static site
+generator which I wrote myself. Written in PHP, it uses a
+[NoSQL database](https://github.com/rakibtg/SleekDB) to manage dynamic data, and
+outputs a compact static HTML5 website that is designed for speed. It's a work
+in progress and I have parts I'd like to improve, specifically the fact that it
+uses Bootstrap for CSS which is heavier that necessary for this websites needs.
+Currently it uses Git workflows to deploy to a DigitalOcean droplet when a
+version-formatted tagged commit is pushed.
+
+---
+
 ## 16 April 2022
 
 Today I finished my

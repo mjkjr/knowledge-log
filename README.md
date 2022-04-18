@@ -37,11 +37,14 @@ career change into the field of software development. More specifically: my
 *ideal* position would be one in the video game industry. However, a career in
 web development is also of interest to me.
 
-After achieving my initial goal this project will continue to serve as an
-ongoing log of my continued skill development.
+Along the way I have an intermediate milestone which I'd also like to achieve
+which is transitioning my existing brick-and-mortar business into an online-only
+e-commerce shop.
 
-As such, this project exists as a sort of "living resumé" for potential
-employers and showcases my current skills and how I attained them.
+After achieving these goals this project will continue to serve as an ongoing
+log of my continued skill development. As such, this project exists as a sort of
+"living resumé" for potential employers and serves as a showcases of my current
+skills and how I went about attaining them.
 
 ---
 
@@ -74,6 +77,8 @@ The following is a self-assessment of my current skills.
 | **CONCEPTS**
 | Regular Expressions    |    ✔️    |      ✔️      |          |        |
 | Big-O Notation         |          |              |          |        |
+| Continuous Deployment  |    ✔️    |              |          |        |
+| Continuous Integration |    ✔️    |              |          |        |
 | **LANGUAGES**
 | Markdown               |    ✔️    |      ✔️      |     ✔️     |        |
 | HTML                   |    ✔️    |      ✔️      |     ✔️     |        |
@@ -129,6 +134,7 @@ Outline of my past, current, and future coursework.
 | [JSRobot](https://lab.reaal.me/jsrobot/)                              | 2022-04-09 |            | Completed Level 6              |
 | [The Odin Project](https://www.theodinproject.com/)                   |            |            |                                |
 | [Bento](https://bento.io/tracks)                                      |            |            |                                |
+| [Rusty CS](https://github.com/AbdesamedBendjeddou/Rusty-CS)           |            |            |                                |
 
 <br>
 
@@ -197,7 +203,6 @@ knowledge.**
 [fcc10-view]: https://www.freecodecamp.org/learn/machine-learning-with-python/
 [fcc10-cert]: #
 
-[rcs]: https://github.com/AbdesamedBendjeddou/Rusty-CS
 
 [Profile links]: #
 
