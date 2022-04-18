@@ -26,7 +26,7 @@ generator which I wrote myself. Written in PHP, it uses a
 [NoSQL database](https://github.com/rakibtg/SleekDB) to manage dynamic data, and
 outputs a compact static HTML5 website that is designed for speed. It's a work
 in progress and I have parts I'd like to improve, specifically the fact that it
-uses Bootstrap for CSS which is heavier that necessary for this websites needs.
+uses Bootstrap for CSS which is heavier that necessary for this website's needs.
 Currently it uses Git workflows to deploy to a DigitalOcean droplet when a
 version-formatted tagged commit is pushed.
 
