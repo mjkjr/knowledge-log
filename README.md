@@ -121,8 +121,8 @@ Outline of my past, current, and future coursework.
 |:--------------------------------------------------------------------- |:----------:|:----------:|:------------------------------:|
 | [Responsive Web Design Certification][fcc01-view]                     | 2022-02-15 | 2022-02-20 | [✔️ (Certificate)][fcc01-cert] |
 | [JavaScript Algorithms and Data Structures Certification][fcc02-view] | 2022-02-20 | 2022-03-07 | [✔️ (Certificate)][fcc02-cert] |
-| [Front End Development Libraries Certification][fcc03-view]           | 2022-03-07 |            | [⏳ (WIP)][fcc]                 |
-| [Data Visualization Certification][fcc04-view]                        |            |            |                                |
+| [Front End Development Libraries Certification][fcc03-view]           | 2022-03-07 | 2022-04-19 | [✔️ (Certificate)][fcc03-cert] |
+| [Data Visualization Certification][fcc04-view]                        |            |            | [⏳ (WIP)][fcc]                 |
 | [Back End Development and APIs Certification][fcc05-view]             |            |            |                                |
 | [Quality Assurance Certification][fcc06-view]                         |            |            |                                |
 | [Scientific Computing with Python Certification][fcc07-view]          |            |            |                                |
@@ -187,7 +187,7 @@ knowledge.**
 [fcc02-view]: https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/
 [fcc02-cert]: https://www.freecodecamp.org/certification/mjkjr/javascript-algorithms-and-data-structures
 [fcc03-view]: https://www.freecodecamp.org/learn/front-end-development-libraries/
-[fcc03-cert]: #
+[fcc03-cert]: https://www.freecodecamp.org/certification/mjkjr/front-end-development-libraries
 [fcc04-view]: https://www.freecodecamp.org/learn/data-visualization/
 [fcc04-cert]: #
 [fcc05-view]: https://www.freecodecamp.org/learn/back-end-development-and-apis/

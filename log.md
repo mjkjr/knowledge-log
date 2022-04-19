@@ -6,6 +6,16 @@ The daily digest of my self-directed learnings.
 
 ---
 
+## 19 April 2022
+
+Today I completed the final two projects in the freeCodeCamp curriculum toward
+the Front-End Development Libraries certification which were a simple
+[Javascript calculator](https://codepen.io/mjkjr/full/xxpMVZm), and a
+[25+5 clock](https://codepen.io/mjkjr/full/RwxvgrV), earning me the
+[certification](https://www.freecodecamp.org/certification/mjkjr/front-end-development-libraries).
+
+---
+
 ## 18 April 2022
 
 Today I worked on and finished the next
