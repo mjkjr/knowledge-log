@@ -6,6 +6,12 @@ The daily digest of my self-directed learnings.
 
 ---
 
+## 20 April 2022
+
+Today I started working on the freeCodeCamp Data Visualization certification.
+
+---
+
 ## 19 April 2022
 
 Today I completed the final two projects in the freeCodeCamp curriculum toward
