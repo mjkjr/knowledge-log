@@ -6,6 +6,19 @@ The daily digest of my self-directed learnings.
 
 ---
 
+## 21 April 2022
+
+I started thinking about the high-level design of my next project,
+[ImprintMint](https://imprintmint.com), which will be an ERP+CRM SaaS tool for
+print shops that do custom apparel decoration, signage, vehicle wraps, and small
+& large-format printing. I plan to use node and am considering a front-end
+framework which is an alternative to React called [Aurelia](https://aurelia.io/)
+(which I love because it just so happens to be my eldest daughter's name). I
+plan to follow the aurelia "Contact Manager" tutorial to get a better idea of
+how it works.
+
+---
+
 ## 20 April 2022
 
 Today I started working on the freeCodeCamp Data Visualization certification.
