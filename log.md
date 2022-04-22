@@ -6,6 +6,14 @@ The daily digest of my self-directed learnings.
 
 ---
 
+## 22 April 2022
+
+Today I completed the first freeCodeCamp project towards the Data Visualization
+certification which was a
+[simple bar graph](https://codepen.io/mjkjr/full/JjMzVyJ) using the D3 library.
+
+---
+
 ## 21 April 2022
 
 I started thinking about the high-level design of my next project,
