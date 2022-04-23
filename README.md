@@ -95,6 +95,7 @@ The following is a self-assessment of my current skills.
 | jQuery                 |    ✔️    |      ✔️       |          |        |
 | React                  |    ✔️    |              |          |        |
 | Redux                  |    ✔️    |              |          |        |
+| D3                     |    ✔️    |              |          |        |
 | Three.js               |          |              |          |        |
 | **TOOLS**
 | Git                    |    ✔️    |      ✔️      |          |        |

@@ -6,6 +6,13 @@ The daily digest of my self-directed learnings.
 
 ---
 
+## 23 April 2022
+
+I completed the [2nd project](https://codepen.io/mjkjr/full/qBpwwON) toward the
+freeCodeCamp Data Visualization certification and started working on the 3rd.
+
+---
+
 ## 22 April 2022
 
 Today I completed the first freeCodeCamp project towards the Data Visualization
