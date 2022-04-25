@@ -6,6 +6,21 @@ The daily digest of my self-directed learnings.
 
 ---
 
+## 25 April 2022
+
+Today I completed the 4th project towards the freeCodeCamp Data Visualization
+certification which is a [Choropleth Map](https://codepen.io/mjkjr/full/GRyaLxy)
+of an education statistic within the US.
+
+---
+
+## 24 April 2022
+
+I completed the [3rd project](https://codepen.io/mjkjr/full/KKZYLEq) toward the
+freeCodeCamp Data Visualization certification which is a heat map visualization.
+
+---
+
 ## 23 April 2022
 
 I completed the [2nd project](https://codepen.io/mjkjr/full/qBpwwON) toward the
