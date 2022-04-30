@@ -21,6 +21,7 @@ You can contact me via: [my personal website](https://mjkjr.com).
 
 [GitHub](https://github.com/mjkjr) |
 [CodePen](https://codepen.io/mjkjr/) |
+[Glitch](https://glitch.com/@mjkjr84) |
 [freeCodeCamp](https://www.freecodecamp.org/mjkjr) |
 [Codewars](https://www.codewars.com/users/mjkjr) |
 [Edabit](https://edabit.com/user/4QXooTfP97tnnBkHb) |
@@ -66,6 +67,21 @@ Some topics in which I'm personally interested:
 
 <br>
 
+## 📓 Portfolio Projects
+
+| Project                                  | Technologies Used | Status        |
+| ---------------------------------------- | ----------------- | ------------- |
+| [Skeleton Screen Loader][pp01]           | CSS, Javascript   | ⏳ Planning    |
+| [Kanban Board][pp02]                     | CSS, Javascript   | ⏳ Up Next     |
+| [Traditional User Authentication][pp03]  | TBD               | ⏳ Not Started |
+| [User Auth via Magic Link][pp04]         | TBD               | ⏳ Not Started |
+
+<br>
+
+---
+
+<br>
+
 ## 💻 Skills
 
 The following is a self-assessment of my current skills.
@@ -91,11 +107,12 @@ The following is a self-assessment of my current skills.
 | Bash                   |    ✔️    |              |          |        |
 | Rust                   |          |              |          |        |
 | **FRAMEWORKS**
-| Bootstrap              |    ✔️    |      ✔️       |          |        |
-| jQuery                 |    ✔️    |      ✔️       |          |        |
+| Node.js                |    ✔️    |              |          |        |
 | React                  |    ✔️    |              |          |        |
 | Redux                  |    ✔️    |              |          |        |
 | D3                     |    ✔️    |              |          |        |
+| jQuery                 |    ✔️    |      ✔️       |          |        |
+| Bootstrap              |    ✔️    |      ✔️       |          |        |
 | Three.js               |          |              |          |        |
 | **TOOLS**
 | Git                    |    ✔️    |      ✔️      |          |        |
@@ -179,6 +196,13 @@ This project was inspired by [Sky Houdeib's Learning Tracker](https://github.com
 **Thank you to all of the educational resource providers for sharing your
 knowledge.**
 
+
+[Portfolio Project links]: #
+
+[pp01]: #
+[pp02]: #
+[pp03]: #
+[pp04]: #
 
 [Course links]: #
 

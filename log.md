@@ -6,6 +6,25 @@ The daily digest of my self-directed learnings.
 
 ---
 
+## 30 April 2022
+
+Today I began working on the Back End Development certification on freeCodeCamp.
+
+The first section covers using NPM which is new to me as I've never really
+worked with Node (and by extension the Node Package Manager) before (aside from
+working briefly on a simple Trello Power Up using node hosted on Glitch.com but
+I didn't really know what I was doing then and scrapped the project).
+
+Also, I've started planning a few initial projects for my portfolio. I've added
+them to the [Knowledge log](README.md#📓-portfolio-projects) and I will continue
+to add project ideas to the table which will serve to help me remember the
+projects I want to work on. I also have cards in my personal Trello board with
+links to related resources and checklists of the user stories that each project
+will require. I'll end up including notes within the comments of the individual
+projects themselves with the related planning and resources that went into them.
+
+---
+
 ## 29 April 2022
 
 Today I completed the 5th and final project in the freeCodeCamp Data
