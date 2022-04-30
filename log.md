@@ -6,6 +6,16 @@ The daily digest of my self-directed learnings.
 
 ---
 
+## 29 April 2022
+
+Today I completed the 5th and final project in the freeCodeCamp Data
+Visualization certification which was a
+[Treemap Graph](https://codepen.io/mjkjr/full/ExQYrBN). I'm looking forward to
+moving on to the Back End Development and APIs Certification as I plan to use
+what I learn there in building the client portal of my business website.
+
+---
+
 ## 25 April 2022
 
 Today I completed the 4th project towards the freeCodeCamp Data Visualization
