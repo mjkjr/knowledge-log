@@ -6,6 +6,20 @@ The daily digest of my self-directed learnings.
 
 ---
 
+## 1 May 2022
+
+Continued working through the Back End Development Certification curriculum on
+freeCodeCamp.org. I'm using Glitch.com to host the projects. Despite the
+curriculum not covering actually installing node or npm and directing students
+to use an online service such as replit.com or glitch which manages node and npm
+automatically I decided to figure out how to install node and
+[pnpm]((https://pnpm.io/)) on my local ubuntu machine. While I am indeed hosting
+the project files on my [Glitch profile](https://glitch.com/@mjkjr84), setting
+up the local server allowed me to feel confident that I understand the
+underlying workings of these tools.
+
+---
+
 ## 30 April 2022
 
 Today I began working on the Back End Development certification on freeCodeCamp.
