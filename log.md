@@ -6,6 +6,20 @@ The daily digest of my self-directed learnings.
 
 ---
 
+## 2 May 2022
+
+I completed the [1st project](https://mjkjr-fcc-timestamp.glitch.me/) toward the
+freeCodeCamp.org Back End Development & APIs Certification this morning. I am
+pretty excited learning to work with node, my brief experience with it in the
+past left me with a negative impression of it, however it was in an unstructured
+context where I didn't have the proper groundwork knowledge from which to draw.
+I'm looking forward to completing the remainder of the projects and using what
+I learn to flesh out the plans for the future back-end of my business' website
+and my future CRM/ERP project as well. I will need to think of some of my own
+ideas for a few small practice projects to add to my portfolio list as well.
+
+---
+
 ## 1 May 2022
 
 Continued working through the Back End Development Certification curriculum on
