@@ -8,7 +8,8 @@ The daily digest of my self-directed learnings.
 
 ## 2 May 2022
 
-I completed the [1st project](https://mjkjr-fcc-timestamp.glitch.me/) toward the
+I completed the [first](https://mjkjr-fcc-timestamp.glitch.me/)
+[two](https://mjkjr-fcc-headerparser.glitch.me/) projects toward the
 freeCodeCamp.org Back End Development & APIs Certification this morning. I am
 pretty excited learning to work with node, my brief experience with it in the
 past left me with a negative impression of it, however it was in an unstructured
