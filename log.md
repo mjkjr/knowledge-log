@@ -9,7 +9,9 @@ The daily digest of my self-directed learnings.
 ## 3 May 2022
 
 Today I completed the remainder of the projects for the freeCodeCamp
-[Back End Development and APIs Certification](https://www.freecodecamp.org/certification/mjkjr/back-end-development-and-apis).
+[Back End Development and APIs Certification](https://www.freecodecamp.org/certification/mjkjr/back-end-development-and-apis)
+and began working on the Quality Assurance Certification lessons which cover
+unit testing.
 
 ---
 
