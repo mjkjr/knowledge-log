@@ -135,30 +135,30 @@ Outline of my past, current, and future coursework.
 > certificates (where applicable), or my relevant profile page reflecting my
 > current progress.
 
-| Course                                                                |  Started   | Completed  |             Status            |
-|:--------------------------------------------------------------------- |:----------:|:----------:|:-----------------------------:|
-| [FREE CODE CAMP][fcc]                                                 |            |            |                               |
-| &nbsp;[Responsive Web Design Certification][fcc01-view]                   | 2022-02-15 | 2022-02-20 | [✔️ (Certificate)][fcc01-cert] |
-| &nbsp;[JavaScript Algorithms & Data Structures Certification][fcc02-view] | 2022-02-20 | 2022-03-07 | [✔️ (Certificate)][fcc02-cert] |
-| &nbsp;[Front End Development Libraries Certification][fcc03-view]         | 2022-03-07 | 2022-04-19 | [✔️ (Certificate)][fcc03-cert] |
-| &nbsp;[Data Visualization Certification][fcc04-view]                      | 2022-04-20 | 2022-04-29 | [✔️ (Certificate)][fcc04-cert] |
-| &nbsp;[Back End Development and APIs Certification][fcc05-view]           | 2022-04-30 | 2022-05-03 | [✔️ (Certificate)][fcc05-cert] |
-| &nbsp;[Quality Assurance Certification][fcc06-view]                       | 2022-05-03 |            | [⏳ (WIP)][fcc]               |
-| &nbsp;[Scientific Computing with Python Certification][fcc07-view]        |            |            |                               |
-| &nbsp;[Data Analysis with Python Certification][fcc08-view]               |            |            |                               |
-| &nbsp;[Information Security Certification][fcc09-view]                    |            |            |                               |
-| &nbsp;[Machine Learning with Python Certification][fcc10-view]            |            |            |                               |
-| [THE ODIN PROJECT - FULL STACK JAVASCRIPT][odinjs]             |            |            |                               |
-| &nbsp;[Intermediate HTML and CSS][odin01]                                 | 2022-05-03 |            | ⏳ (WIP)                      |
-| &nbsp;[Javascript][odin02]                                                |            |            |                               |
-| &nbsp;[Advanced HTML and CSS][odin03]                                     |            |            |                               |
-| &nbsp;[NodeJS][odin04]                                                    |            |            |                               |
-| &nbsp;[Getting Hired][odin05]                                             |            |            |                               |
-| [Bento](https://bento.io/tracks)                                      |            |            |                               |
-| [Codewars](https://www.codewars.com/)                                 | 2022-04-05 |     -      | [Ongoing][codewars]           |
-| [Edabit](https://edabit.com/)                                         | 2022-04-09 |            | [Ongoing][edabit]             |
-| [JSRobot](https://lab.reaal.me/jsrobot/)                              | 2022-04-09 |            | Completed Level 6             |
-| [Rusty CS](https://github.com/AbdesamedBendjeddou/Rusty-CS)           |            |            |                               |
+| Course                                                              |  Started   | Completed  |             Status            |
+|:------------------------------------------------------------------- |:----------:|:----------:|:-----------------------------:|
+| **FREE CODE CAMP**                                                  | 2022-02-15 |            | ⏳ (WIP)                      |
+| [Responsive Web Design Certification][fcc01-view]                   | 2022-02-15 | 2022-02-20 | [✔️ (Certificate)][fcc01-cert] |
+| [JavaScript Algorithms & Data Structures Certification][fcc02-view] | 2022-02-20 | 2022-03-07 | [✔️ (Certificate)][fcc02-cert] |
+| [Front End Development Libraries Certification][fcc03-view]         | 2022-03-07 | 2022-04-19 | [✔️ (Certificate)][fcc03-cert] |
+| [Data Visualization Certification][fcc04-view]                      | 2022-04-20 | 2022-04-29 | [✔️ (Certificate)][fcc04-cert] |
+| [Back End Development and APIs Certification][fcc05-view]           | 2022-04-30 | 2022-05-03 | [✔️ (Certificate)][fcc05-cert] |
+| [Quality Assurance Certification][fcc06-view]                       | 2022-05-03 |            | [⏳ (WIP)][fcc]               |
+| [Scientific Computing with Python Certification][fcc07-view]        |            |            |                               |
+| [Data Analysis with Python Certification][fcc08-view]               |            |            |                               |
+| [Information Security Certification][fcc09-view]                    |            |            |                               |
+| [Machine Learning with Python Certification][fcc10-view]            |            |            |                               |
+| **THE ODIN PROJECT - FULL STACK JAVASCRIPT**                        | 2022-05-03 |            | ⏳ (WIP)                      |
+| [Intermediate HTML and CSS][odin01]                                 | 2022-05-03 |            | ⏳ (WIP)                      |
+| [Javascript][odin02]                                                |            |            |                               |
+| [Advanced HTML and CSS][odin03]                                     |            |            |                               |
+| [NodeJS][odin04]                                                    |            |            |                               |
+| [Getting Hired][odin05]                                             |            |            |                               |
+| [Bento](https://bento.io/tracks)                                    |            |            |                               |
+| [Codewars](https://www.codewars.com/)                               | 2022-04-05 |     -      | [Ongoing][codewars]           |
+| [Edabit](https://edabit.com/)                                       | 2022-04-09 |            | [Ongoing][edabit]             |
+| [JSRobot](https://lab.reaal.me/jsrobot/)                            | 2022-04-09 |            | Completed Level 6             |
+| [Rusty CS](https://github.com/AbdesamedBendjeddou/Rusty-CS)         |            |            |                               |
 
 <br>
 
