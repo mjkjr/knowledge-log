@@ -135,24 +135,24 @@ Outline of my past, current, and future coursework.
 > certificates (where applicable), or my relevant profile page reflecting my
 > current progress.
 
-| Course                                                                |  Started   | Completed  |             Status             |
-|:--------------------------------------------------------------------- |:----------:|:----------:|:------------------------------:|
+| Course                                                                |  Started   | Completed  |             Status            |
+|:--------------------------------------------------------------------- |:----------:|:----------:|:-----------------------------:|
 | [Responsive Web Design Certification][fcc01-view]                     | 2022-02-15 | 2022-02-20 | [✔️ (Certificate)][fcc01-cert] |
 | [JavaScript Algorithms and Data Structures Certification][fcc02-view] | 2022-02-20 | 2022-03-07 | [✔️ (Certificate)][fcc02-cert] |
 | [Front End Development Libraries Certification][fcc03-view]           | 2022-03-07 | 2022-04-19 | [✔️ (Certificate)][fcc03-cert] |
 | [Data Visualization Certification][fcc04-view]                        | 2022-04-20 | 2022-04-29 | [✔️ (Certificate)][fcc04-cert] |
-| [Back End Development and APIs Certification][fcc05-view]             | 2022-04-30 |            | [⏳ (WIP)][fcc]                 |
-| [Quality Assurance Certification][fcc06-view]                         |            |            |                                |
-| [Scientific Computing with Python Certification][fcc07-view]          |            |            |                                |
-| [Data Analysis with Python Certification][fcc08-view]                 |            |            |                                |
-| [Information Security Certification][fcc09-view]                      |            |            |                                |
-| [Machine Learning with Python Certification][fcc10-view]              |            |            |                                |
-| [Codewars](https://www.codewars.com/)                                 | 2022-04-05 |     -      | [Ongoing][codewars]            |
-| [Edabit](https://edabit.com/)                                         | 2022-04-09 |            | [Ongoing][edabit]              |
-| [JSRobot](https://lab.reaal.me/jsrobot/)                              | 2022-04-09 |            | Completed Level 6              |
-| [The Odin Project](https://www.theodinproject.com/)                   |            |            |                                |
-| [Bento](https://bento.io/tracks)                                      |            |            |                                |
-| [Rusty CS](https://github.com/AbdesamedBendjeddou/Rusty-CS)           |            |            |                                |
+| [Back End Development and APIs Certification][fcc05-view]             | 2022-04-30 | 2022-05-03 | [✔️ (Certificate)][fcc05-cert] |
+| [Quality Assurance Certification][fcc06-view]                         | 2022-05-03 |            | [⏳ (WIP)][fcc]               |
+| [Scientific Computing with Python Certification][fcc07-view]          |            |            |                               |
+| [Data Analysis with Python Certification][fcc08-view]                 |            |            |                               |
+| [Information Security Certification][fcc09-view]                      |            |            |                               |
+| [Machine Learning with Python Certification][fcc10-view]              |            |            |                               |
+| [Codewars](https://www.codewars.com/)                                 | 2022-04-05 |     -      | [Ongoing][codewars]           |
+| [Edabit](https://edabit.com/)                                         | 2022-04-09 |            | [Ongoing][edabit]             |
+| [JSRobot](https://lab.reaal.me/jsrobot/)                              | 2022-04-09 |            | Completed Level 6             |
+| [The Odin Project](https://www.theodinproject.com/)                   |            |            |                               |
+| [Bento](https://bento.io/tracks)                                      |            |            |                               |
+| [Rusty CS](https://github.com/AbdesamedBendjeddou/Rusty-CS)           |            |            |                               |
 
 <br>
 
@@ -216,7 +216,7 @@ knowledge.**
 [fcc04-view]: https://www.freecodecamp.org/learn/data-visualization/
 [fcc04-cert]: https://www.freecodecamp.org/certification/mjkjr/data-visualization
 [fcc05-view]: https://www.freecodecamp.org/learn/back-end-development-and-apis/
-[fcc05-cert]: #
+[fcc05-cert]: https://www.freecodecamp.org/certification/mjkjr/back-end-development-and-apis
 [fcc06-view]: https://www.freecodecamp.org/learn/quality-assurance/
 [fcc06-cert]: #
 [fcc07-view]: https://www.freecodecamp.org/learn/scientific-computing-with-python/
