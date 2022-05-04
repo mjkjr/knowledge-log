@@ -135,24 +135,30 @@ Outline of my past, current, and future coursework.
 > certificates (where applicable), or my relevant profile page reflecting my
 > current progress.
 
-| Course                                                                |  Started   | Completed  |             Status            |
-|:--------------------------------------------------------------------- |:----------:|:----------:|:-----------------------------:|
-| [Responsive Web Design Certification][fcc01-view]                     | 2022-02-15 | 2022-02-20 | [✔️ (Certificate)][fcc01-cert] |
-| [JavaScript Algorithms and Data Structures Certification][fcc02-view] | 2022-02-20 | 2022-03-07 | [✔️ (Certificate)][fcc02-cert] |
-| [Front End Development Libraries Certification][fcc03-view]           | 2022-03-07 | 2022-04-19 | [✔️ (Certificate)][fcc03-cert] |
-| [Data Visualization Certification][fcc04-view]                        | 2022-04-20 | 2022-04-29 | [✔️ (Certificate)][fcc04-cert] |
-| [Back End Development and APIs Certification][fcc05-view]             | 2022-04-30 | 2022-05-03 | [✔️ (Certificate)][fcc05-cert] |
-| [Quality Assurance Certification][fcc06-view]                         | 2022-05-03 |            | [⏳ (WIP)][fcc]               |
-| [Scientific Computing with Python Certification][fcc07-view]          |            |            |                               |
-| [Data Analysis with Python Certification][fcc08-view]                 |            |            |                               |
-| [Information Security Certification][fcc09-view]                      |            |            |                               |
-| [Machine Learning with Python Certification][fcc10-view]              |            |            |                               |
-| [Codewars](https://www.codewars.com/)                                 | 2022-04-05 |     -      | [Ongoing][codewars]           |
-| [Edabit](https://edabit.com/)                                         | 2022-04-09 |            | [Ongoing][edabit]             |
-| [JSRobot](https://lab.reaal.me/jsrobot/)                              | 2022-04-09 |            | Completed Level 6             |
-| [The Odin Project](https://www.theodinproject.com/)                   |            |            |                               |
-| [Bento](https://bento.io/tracks)                                      |            |            |                               |
-| [Rusty CS](https://github.com/AbdesamedBendjeddou/Rusty-CS)           |            |            |                               |
+| Course                                                                  |  Started   | Completed  |             Status            |
+|:----------------------------------------------------------------------- |:----------:|:----------:|:-----------------------------:|
+| [FREE CODE CAMP][fcc]                                                   |            |            |                               |
+| ↳ [Responsive Web Design Certification][fcc01-view]                     | 2022-02-15 | 2022-02-20 | [✔️ (Certificate)][fcc01-cert] |
+| ↳ [JavaScript Algorithms and Data Structures Certification][fcc02-view] | 2022-02-20 | 2022-03-07 | [✔️ (Certificate)][fcc02-cert] |
+| ↳ [Front End Development Libraries Certification][fcc03-view]           | 2022-03-07 | 2022-04-19 | [✔️ (Certificate)][fcc03-cert] |
+| ↳ [Data Visualization Certification][fcc04-view]                        | 2022-04-20 | 2022-04-29 | [✔️ (Certificate)][fcc04-cert] |
+| ↳ [Back End Development and APIs Certification][fcc05-view]             | 2022-04-30 | 2022-05-03 | [✔️ (Certificate)][fcc05-cert] |
+| ↳ [Quality Assurance Certification][fcc06-view]                         | 2022-05-03 |            | [⏳ (WIP)][fcc]               |
+| ↳ [Scientific Computing with Python Certification][fcc07-view]          |            |            |                               |
+| ↳ [Data Analysis with Python Certification][fcc08-view]                 |            |            |                               |
+| ↳ [Information Security Certification][fcc09-view]                      |            |            |                               |
+| ↳ [Machine Learning with Python Certification][fcc10-view]              |            |            |                               |
+| [THE ODIN PROJECT - FULL STACK JAVASCRIPT COURSE][odinjs]               |            |            |                               |
+| ↳ [Intermediate HTML and CSS][odin01]                                   | 2022-05-03 |            | ⏳ (WIP)                      |
+| ↳ [Javascript][odin02]                                                  |            |            |                               |
+| ↳ [Advanced HTML and CSS][odin03]                                       |            |            |                               |
+| ↳ [NodeJS][odin04]                                                      |            |            |                               |
+| ↳ [Getting Hired][odin05]                                               |            |            |                               |
+| [Bento](https://bento.io/tracks)                                        |            |            |                               |
+| [Codewars](https://www.codewars.com/)                                   | 2022-04-05 |     -      | [Ongoing][codewars]           |
+| [Edabit](https://edabit.com/)                                           | 2022-04-09 |            | [Ongoing][edabit]             |
+| [JSRobot](https://lab.reaal.me/jsrobot/)                                | 2022-04-09 |            | Completed Level 6             |
+| [Rusty CS](https://github.com/AbdesamedBendjeddou/Rusty-CS)             |            |            |                               |
 
 <br>
 
@@ -228,6 +234,13 @@ knowledge.**
 [fcc10-view]: https://www.freecodecamp.org/learn/machine-learning-with-python/
 [fcc10-cert]: #
 
+[odin]: https://www.theodinproject.com/
+[odinjs]: https://www.theodinproject.com/paths/full-stack-javascript
+[odin01]: https://www.theodinproject.com/paths/full-stack-javascript/courses/intermediate-html-and-css
+[odin02]: https://www.theodinproject.com/paths/full-stack-javascript/courses/javascript
+[odin03]: https://www.theodinproject.com/paths/full-stack-javascript/courses/advanced-html-and-css
+[odin04]: https://www.theodinproject.com/paths/full-stack-javascript/courses/nodejs
+[odin05]: https://www.theodinproject.com/paths/full-stack-javascript/courses/getting-hired
 
 [Profile links]: #
 
