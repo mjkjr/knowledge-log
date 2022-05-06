@@ -6,6 +6,13 @@ The daily digest of my self-directed learnings.
 
 ---
 
+## 4 May 2022
+
+Completed the first course section of the freeCodeCamp Quality Assurance unit on
+[Testing with Chai](https://github.com/mjkjr/fcc-mochachai/tree/main/tests).
+
+---
+
 ## 3 May 2022
 
 Today I completed the remainder of the projects for the freeCodeCamp
