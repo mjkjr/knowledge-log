@@ -6,6 +6,24 @@ The daily digest of my self-directed learnings.
 
 ---
 
+## 6 May 2022
+
+Continued on the Advanced Node & Express section of the freeCodeCamp Quality
+Assurance unit. I'm excited about this section as it covers user authentication
+and building a simple chat app.
+
+Also, I removed Edabit from my profile in the Knowledge log. It turns out that
+it isn't free and as it is redundant and lower-quality in both interface and
+presented practice problems as compared to Codewars I'll simply stick with
+Codewars for now. As it is I haven't made much time to work on either of those
+sites as I've been mainly focused on the freeCodeCamp curriculum which is
+already on top of running my existing company. This way when I do need a break
+from the main curriculum and want to solve some random problems I only need to
+go to one place rather than split it up among a couple, which will also all me
+to gain better ranks on there more quickly than the alternative.
+
+---
+
 ## 5 May 2022
 
 Started the Advanced Node and Express section of the freeCodeCamp Quality

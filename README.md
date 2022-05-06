@@ -24,7 +24,6 @@ You can contact me via: [my personal website](https://mjkjr.com).
 [Glitch](https://glitch.com/@mjkjr84) |
 [freeCodeCamp](https://www.freecodecamp.org/mjkjr) |
 [Codewars](https://www.codewars.com/users/mjkjr) |
-[Edabit](https://edabit.com/user/4QXooTfP97tnnBkHb) |
 [LinkedIn](https://www.linkedin.com/in/mjkjr/)
 
 ---
@@ -144,7 +143,7 @@ Outline of my past, current, and future coursework.
 | [Front End Development Libraries Certification][fcc03-view]         | 2022-03-07 | 2022-04-19 | [✔️ (Certificate)][fcc03-cert] |
 | [Data Visualization Certification][fcc04-view]                      | 2022-04-20 | 2022-04-29 | [✔️ (Certificate)][fcc04-cert] |
 | [Back End Development and APIs Certification][fcc05-view]           | 2022-04-30 | 2022-05-03 | [✔️ (Certificate)][fcc05-cert] |
-| [Quality Assurance Certification][fcc06-view]                       | 2022-05-03 |            | [⏳ (WIP)][fcc]               |
+| [Quality Assurance Certification][fcc06-view]                       | 2022-05-03 |            | [⏳ (WIP)][fcc]                |
 | [Scientific Computing with Python Certification][fcc07-view]        |            |            |                               |
 | [Data Analysis with Python Certification][fcc08-view]               |            |            |                               |
 | [Information Security Certification][fcc09-view]                    |            |            |                               |
@@ -248,4 +247,3 @@ knowledge.**
 [Profile links]: #
 
 [codewars]: https://www.codewars.com/users/mjkjr
-[edabit]: https://edabit.com/user/4QXooTfP97tnnBkHb
