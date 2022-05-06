@@ -6,6 +6,13 @@ The daily digest of my self-directed learnings.
 
 ---
 
+## 5 May 2022
+
+Started the Advanced Node and Express section of the freeCodeCamp Quality
+Assurance unit.
+
+---
+
 ## 4 May 2022
 
 Completed the first course section of the freeCodeCamp Quality Assurance unit on
