@@ -177,6 +177,7 @@ Links to useful references, tools, articles, etc for future reference.
 
 ### Web Development
 
+- [Emmet Cheat Sheet](https://docs.emmet.io/cheat-sheet/)
 - [Learn JS Design Patterns (book)](https://addyosmani.com/resources/essentialjsdesignpatterns/book/)
 - [JS: The Right Way](http://jstherightway.org/)
 - [Front-End Checklist](https://github.com/Syknapse/Front-End-Checklist)

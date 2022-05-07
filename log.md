@@ -6,6 +6,27 @@ The daily digest of my self-directed learnings.
 
 ---
 
+## 7 May 2022
+
+Today I learned about [javascript generator functions](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/function*)
+while solving a [Codewars](https://www.codewars.com/kata/5d2659626c7aec0022cb8006)
+problem. I've been aware of iterators but this is the first time I've ever had
+the opportunity to program one myself. I'm excited to have this new and powerful
+concept under my belt and in my toolbox for the future.
+
+I also learned about VSCode's [Emmet shortcuts](https://docs.emmet.io/cheat-sheet/)
+which will be a great time saver when writing HTML & CSS documents. Emmet was
+presented near the beginning of [The Odin Projects's](https://www.theodinproject.com/)
+Full-Stack JavaScript path. This is exactly the kind of thing I had hoped
+for by following an additional course: Emmet wasn't mentioned at all in the
+freeCodeCamp curriculum, yet it will be an incredible boon for me moving forward.
+
+Finally, I advanced through more of the Advanced Node & Express section of the
+Quality Assurance Certification unit in freeCodeCamp which involved implementing
+basic login and registration flows.
+
+---
+
 ## 6 May 2022
 
 Continued on the Advanced Node & Express section of the freeCodeCamp Quality
