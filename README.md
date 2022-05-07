@@ -159,7 +159,6 @@ Outline of my past, current, and future coursework.
 | [Rusty CS](https://github.com/AbdesamedBendjeddou/Rusty-CS)         |            |            |                               |
 | **PRACTICE EXERCISES**
 | [Codewars](https://www.codewars.com/)                               | 2022-04-05 |     -      | [Ongoing][codewars]           |
-| [Edabit](https://edabit.com/)                                       | 2022-04-09 |            | [Ongoing][edabit]             |
 | [JSRobot](https://lab.reaal.me/jsrobot/)                            | 2022-04-09 |            | Completed Level 6             |
 
 <br>
