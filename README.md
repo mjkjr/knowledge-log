@@ -68,12 +68,12 @@ Some topics in which I'm personally interested:
 
 ## 📓 Portfolio Projects
 
-| Project                                  | Technologies Used | Status        |
-| ---------------------------------------- | ----------------- | ------------- |
-| [Skeleton Screen Loader][pp01]           | CSS, Javascript   | ⏳ Planning    |
-| [Kanban Board][pp02]                     | CSS, Javascript   | ⏳ Up Next     |
-| [Traditional User Authentication][pp03]  | TBD               | ⏳ Not Started |
-| [User Auth via Magic Link][pp04]         | TBD               | ⏳ Not Started |
+| Project                                 | Technologies Used | Status         |
+| --------------------------------------- | ----------------- | -------------- |
+| [Skeleton Screen Loader][pp01]          | CSS, Javascript   | ⏳ Planning    |
+| [Kanban Board][pp02]                    | CSS, Javascript   | ⏳ Up Next     |
+| [Traditional User Authentication][pp03] | TBD               | ⏳ Not Started |
+| [User Auth via Magic Link][pp04]        | TBD               | ⏳ Not Started |
 
 <br>
 
@@ -90,40 +90,41 @@ The following is a self-assessment of my current skills.
 | Skills                 | Beginner | Intermediate | Advanced | Expert |
 | ---------------------- |:--------:|:------------:|:--------:|:------:|
 | **CONCEPTS**
-| Regular Expressions    |    ✔️    |      ✔️      |          |        |
-| Unit Testing           |    ✔️    |              |          |        |
+| Regular Expressions    |    ✔️     |      ✔️       |          |        |
+| Iterators              |    ✔️     |              |          |        |
+| Unit Testing           |    ✔️     |              |          |        |
 | Big-O Notation         |          |              |          |        |
-| Continuous Deployment  |    ✔️    |              |          |        |
-| Continuous Integration |    ✔️    |              |          |        |
+| Continuous Deployment  |    ✔️     |              |          |        |
+| Continuous Integration |    ✔️     |              |          |        |
 | **LANGUAGES**
-| Markdown               |    ✔️    |      ✔️      |     ✔️     |        |
-| HTML                   |    ✔️    |      ✔️      |     ✔️     |        |
-| CSS                    |    ✔️    |      ✔️      |          |        |
-| Javascript             |    ✔️    |      ✔️      |          |        |
-| PHP                    |    ✔️    |      ✔️      |          |        |
-| C++                    |    ✔️    |      ✔️      |          |        |
-| Lua                    |    ✔️    |              |          |        |
-| Python                 |    ✔️    |              |          |        |
-| Bash                   |    ✔️    |              |          |        |
+| Markdown               |    ✔️     |      ✔️       |    ✔️     |        |
+| HTML                   |    ✔️     |      ✔️       |    ✔️     |        |
+| CSS                    |    ✔️     |      ✔️       |    ✔️     |        |
+| Javascript             |    ✔️     |      ✔️       |          |        |
+| PHP                    |    ✔️     |      ✔️       |          |        |
+| C++                    |    ✔️     |      ✔️       |          |        |
+| Lua                    |    ✔️     |              |          |        |
+| Python                 |    ✔️     |              |          |        |
+| Bash                   |    ✔️     |              |          |        |
 | Rust                   |          |              |          |        |
 | **FRAMEWORKS**
-| Node.js                |    ✔️    |              |          |        |
-| React                  |    ✔️    |              |          |        |
-| Redux                  |    ✔️    |              |          |        |
-| D3                     |    ✔️    |              |          |        |
-| jQuery                 |    ✔️    |      ✔️       |          |        |
-| Bootstrap              |    ✔️    |      ✔️       |          |        |
+| Node.js                |    ✔️     |      ✔️       |          |        |
+| React                  |    ✔️     |              |          |        |
+| Redux                  |    ✔️     |              |          |        |
+| D3                     |    ✔️     |              |          |        |
+| jQuery                 |    ✔️     |      ✔️       |          |        |
+| Bootstrap              |    ✔️     |      ✔️       |          |        |
 | Three.js               |          |              |          |        |
 | **TOOLS**
-| Git                    |    ✔️    |      ✔️      |          |        |
-| Visual Studio Code     |    ✔️    |              |          |        |
-| Javascript Console     |    ✔️    |      ✔️      |          |        |
-| Chrome Developer Tools |    ✔️    |      ✔️      |          |        |
-| Adobe Illustrator      |    ✔️    |      ✔️      |    ✔️    |        |
-| Adobe Photoshop        |    ✔️    |      ✔️      |          |        |
+| Git                    |    ✔️     |      ✔️       |          |        |
+| Visual Studio Code     |    ✔️     |      ✔️       |          |        |
+| Javascript Console     |    ✔️     |      ✔️       |          |        |
+| Chrome Developer Tools |    ✔️     |      ✔️       |          |        |
+| Adobe Illustrator      |    ✔️     |      ✔️       |    ✔️     |        |
+| Adobe Photoshop        |    ✔️     |      ✔️       |          |        |
 | **OPERATING SYSTEMS**
-| Windows                |    ✔️    |      ✔️      |    ✔️    |        |
-| Linux (ubuntu)         |    ✔️    |      ✔️      |          |        |
+| Windows                |    ✔️     |      ✔️       |    ✔️     |        |
+| Linux (ubuntu)         |    ✔️     |      ✔️       |          |        |
 
 <br>
 
@@ -143,17 +144,17 @@ Outline of my past, current, and future coursework.
 | [Front End Development Libraries Certification][fcc03-view]         | 2022-03-07 | 2022-04-19 | [✔️ (Certificate)][fcc03-cert] |
 | [Data Visualization Certification][fcc04-view]                      | 2022-04-20 | 2022-04-29 | [✔️ (Certificate)][fcc04-cert] |
 | [Back End Development and APIs Certification][fcc05-view]           | 2022-04-30 | 2022-05-03 | [✔️ (Certificate)][fcc05-cert] |
-| [Quality Assurance Certification][fcc06-view]                       | 2022-05-03 |            | [⏳ (WIP)][fcc]                |
+| [Quality Assurance Certification][fcc06-view]                       | 2022-05-03 |            | [⏳ (WIP)][fcc]               |
 | [Scientific Computing with Python Certification][fcc07-view]        |            |            |                               |
 | [Data Analysis with Python Certification][fcc08-view]               |            |            |                               |
 | [Information Security Certification][fcc09-view]                    |            |            |                               |
 | [Machine Learning with Python Certification][fcc10-view]            |            |            |                               |
 | **THE ODIN PROJECT - FULL STACK JAVASCRIPT**
-| [Intermediate HTML and CSS][odin01]                                 | 2022-05-03 |            | ⏳ (WIP)                      |
-| [Javascript][odin02]                                                |            |            |                               |
-| [Advanced HTML and CSS][odin03]                                     |            |            |                               |
-| [NodeJS][odin04]                                                    |            |            |                               |
-| [Getting Hired][odin05]                                             |            |            |                               |
+| [Intermediate HTML and CSS][odinjs01]                               | 2022-05-03 |            | ⏳ (WIP)                      |
+| [Javascript][odinjs02]                                              |            |            |                               |
+| [Advanced HTML and CSS][odinjs03]                                   |            |            |                               |
+| [NodeJS][odinjs04]                                                  |            |            |                               |
+| [Getting Hired][odinjs05]                                           |            |            |                               |
 | **OTHER COURSES**
 | [Bento](https://bento.io/tracks)                                    |            |            |                               |
 | [Rusty CS](https://github.com/AbdesamedBendjeddou/Rusty-CS)         |            |            |                               |
@@ -205,12 +206,23 @@ This project was inspired by [Sky Houdeib's Learning Tracker](https://github.com
 knowledge.**
 
 
+[Profile links]: #
+
+[GitHub]: https://github.com/mjkjr
+[CodePen]: https://codepen.io/mjkjr/
+[Glitch]: https://glitch.com/@mjkjr84
+[freeCodeCamp]: https://www.freecodecamp.org/mjkjr
+[Codewars]: https://www.codewars.com/users/mjkjr
+[LinkedIn]: https://www.linkedin.com/in/mjkjr/
+
+
 [Portfolio Project links]: #
 
 [pp01]: #
 [pp02]: #
 [pp03]: #
 [pp04]: #
+
 
 [Course links]: #
 
@@ -238,12 +250,8 @@ knowledge.**
 
 [odin]: https://www.theodinproject.com/
 [odinjs]: https://www.theodinproject.com/paths/full-stack-javascript
-[odin01]: https://www.theodinproject.com/paths/full-stack-javascript/courses/intermediate-html-and-css
-[odin02]: https://www.theodinproject.com/paths/full-stack-javascript/courses/javascript
-[odin03]: https://www.theodinproject.com/paths/full-stack-javascript/courses/advanced-html-and-css
-[odin04]: https://www.theodinproject.com/paths/full-stack-javascript/courses/nodejs
-[odin05]: https://www.theodinproject.com/paths/full-stack-javascript/courses/getting-hired
-
-[Profile links]: #
-
-[codewars]: https://www.codewars.com/users/mjkjr
+[odinjs01]: https://www.theodinproject.com/paths/full-stack-javascript/courses/intermediate-html-and-css
+[odinjs02]: https://www.theodinproject.com/paths/full-stack-javascript/courses/javascript
+[odinjs03]: https://www.theodinproject.com/paths/full-stack-javascript/courses/advanced-html-and-css
+[odinjs04]: https://www.theodinproject.com/paths/full-stack-javascript/courses/nodejs
+[odinjs05]: https://www.theodinproject.com/paths/full-stack-javascript/courses/getting-hired
