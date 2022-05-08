@@ -87,45 +87,46 @@ The following is a self-assessment of my current skills.
 
 > 📝 **Note:** *This section is still under it's initial construction.*
 
-| Skills                 | Beginner | Intermediate | Advanced | Expert |
-| ---------------------- |:--------:|:------------:|:--------:|:------:|
+| Skills                         | Beginner | Intermediate | Advanced | Expert |
+| ------------------------------ |:--------:|:------------:|:--------:|:------:|
 | **CONCEPTS**
-| Regular Expressions    |    ✔️     |      ✔️       |          |        |
-| Iterators              |    ✔️     |              |          |        |
-| Unit Testing           |    ✔️     |              |          |        |
-| Big-O Notation         |          |              |          |        |
-| Continuous Deployment  |    ✔️     |              |          |        |
-| Continuous Integration |    ✔️     |              |          |        |
+| Regular Expressions            |    ✔️     |      ✔️       |          |        |
+| Iterators                      |    ✔️     |              |          |        |
+| Unit Testing                   |    ✔️     |              |          |        |
+| Password Hashing (& Salting)   |    ✔️     |              |          |        |
+| Big-O Notation                 |          |              |          |        |
+| Continuous Deployment          |    ✔️     |              |          |        |
+| Continuous Integration         |    ✔️     |              |          |        |
 | **LANGUAGES**
-| Markdown               |    ✔️     |      ✔️       |    ✔️     |        |
-| HTML                   |    ✔️     |      ✔️       |    ✔️     |        |
-| CSS                    |    ✔️     |      ✔️       |    ✔️     |        |
-| Javascript             |    ✔️     |      ✔️       |          |        |
-| PHP                    |    ✔️     |      ✔️       |          |        |
-| C++                    |    ✔️     |      ✔️       |          |        |
-| Lua                    |    ✔️     |              |          |        |
-| Python                 |    ✔️     |              |          |        |
-| Bash                   |    ✔️     |              |          |        |
-| Rust                   |          |              |          |        |
+| Markdown                       |    ✔️     |      ✔️       |    ✔️     |        |
+| HTML                           |    ✔️     |      ✔️       |    ✔️     |        |
+| CSS                            |    ✔️     |      ✔️       |    ✔️     |        |
+| Javascript                     |    ✔️     |      ✔️       |          |        |
+| PHP                            |    ✔️     |      ✔️       |          |        |
+| C++                            |    ✔️     |      ✔️       |          |        |
+| Lua                            |    ✔️     |              |          |        |
+| Python                         |    ✔️     |              |          |        |
+| Bash                           |    ✔️     |              |          |        |
+| Rust                           |          |              |          |        |
 | **FRAMEWORKS**
-| Node.js                |    ✔️     |      ✔️       |          |        |
-| React                  |    ✔️     |              |          |        |
-| Redux                  |    ✔️     |              |          |        |
-| D3                     |    ✔️     |              |          |        |
-| jQuery                 |    ✔️     |      ✔️       |          |        |
-| Bootstrap              |    ✔️     |      ✔️       |          |        |
-| Three.js               |          |              |          |        |
+| Node.js                        |    ✔️     |      ✔️       |          |        |
+| React                          |    ✔️     |              |          |        |
+| Redux                          |    ✔️     |              |          |        |
+| D3                             |    ✔️     |              |          |        |
+| jQuery                         |    ✔️     |      ✔️       |          |        |
+| Bootstrap                      |    ✔️     |      ✔️       |          |        |
+| Three.js                       |          |              |          |        |
 | **TOOLS**
-| Google                 |    ✔️     |      ✔️       |    ✔️     |        |
-| Git                    |    ✔️     |      ✔️       |          |        |
-| Visual Studio Code     |    ✔️     |      ✔️       |          |        |
-| Javascript Console     |    ✔️     |      ✔️       |          |        |
-| Chrome Developer Tools |    ✔️     |      ✔️       |          |        |
-| Adobe Illustrator      |    ✔️     |      ✔️       |    ✔️     |        |
-| Adobe Photoshop        |    ✔️     |      ✔️       |          |        |
+| Google                         |    ✔️     |      ✔️       |    ✔️     |        |
+| Git                            |    ✔️     |      ✔️       |          |        |
+| Visual Studio Code             |    ✔️     |      ✔️       |          |        |
+| Javascript Console             |    ✔️     |      ✔️       |          |        |
+| Chrome Developer Tools         |    ✔️     |      ✔️       |          |        |
+| Adobe Illustrator              |    ✔️     |      ✔️       |    ✔️     |        |
+| Adobe Photoshop                |    ✔️     |      ✔️       |          |        |
 | **OPERATING SYSTEMS**
-| Windows                |    ✔️     |      ✔️       |    ✔️     |        |
-| Linux (ubuntu)         |    ✔️     |      ✔️       |          |        |
+| Windows                        |    ✔️     |      ✔️       |    ✔️     |        |
+| Linux (ubuntu)                 |    ✔️     |      ✔️       |          |        |
 
 <br>
 
