@@ -116,6 +116,7 @@ The following is a self-assessment of my current skills.
 | Bootstrap              |    ✔️     |      ✔️       |          |        |
 | Three.js               |          |              |          |        |
 | **TOOLS**
+| Google                 |    ✔️     |      ✔️       |    ✔️     |        |
 | Git                    |    ✔️     |      ✔️       |          |        |
 | Visual Studio Code     |    ✔️     |      ✔️       |          |        |
 | Javascript Console     |    ✔️     |      ✔️       |          |        |

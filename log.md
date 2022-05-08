@@ -6,6 +6,41 @@ The daily digest of my self-directed learnings.
 
 ---
 
+## 8 May 2022
+
+Learned about hashing and salting passwords in Nodejs today. I've been aware of
+these ideas for a long time, however I've never before written user
+authorization code before so I've never used it in practice until now. After
+finishing the tutorial project and reading more about hashes and salts I now
+have a better understanding of what they are and how they work.
+
+A **Hash** is a one-way cryptographic function that converts a given piece of
+variable-length data (such as a password) into a fixed-length output that is
+unique to the given input. Hash algorithms are designed in such a way as to
+avoid giving the same output for different pieces of input data (which would be
+called a *collision*), even if the inputs are very similar. Some hash algorithms
+have been retired as a result of their potential for producing collisions, such
+as [SHA-1](https://security.googleblog.com/2017/02/announcing-first-sha1-collision.html).
+Hash algorithms are *one-way* in that they are designed in such a way as to
+prevent deriving the original input data from a given hash value without a very
+significant time and processing-power burden. This is why hashes are used to
+store passwords in a user database so if the database is compromised it would
+still be a lengthy and expensive process to crack the hashed passwords.
+
+A **Salt** is an additional piece of randomized data that is taken with the data
+to be hashed and combined in some way before being put through a hash algorithm.
+Salts are generated uniquely for each hashed value. Salted hashes slows
+potential attacks by modifying the hash inputs (with the salt values) such that
+an attacker would need to know the salt and the method by which it is combined
+with the original data in order to produce a value to test against the final
+hashed data. The fact that salts are unique to each piece of stored data reduces
+an attackers ability to check a given input value against a hash. This increases
+the time required to crack a hashed password and has the additional benefit of
+protecting weak or common passwords by preventing duplicate passwords in a
+database from having same stored hash values.
+
+---
+
 ## 7 May 2022
 
 Today I learned about [javascript generator functions](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/function*)
