@@ -6,6 +6,15 @@ The daily digest of my self-directed learnings.
 
 ---
 
+## 9 May 2022
+
+Learned how to use the Nodejs package passport to do social login. Registered my
+application with GitHub and setting up the authorization flow with passport was
+pretty straightforward. Later I will have to expand this app to use other social
+login options as well.
+
+---
+
 ## 8 May 2022
 
 Learned about hashing and salting passwords in Nodejs today. I've been aware of

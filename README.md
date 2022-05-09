@@ -152,7 +152,7 @@ Outline of my past, current, and future coursework.
 | [Information Security Certification][fcc09-view]                    |            |            |                               |
 | [Machine Learning with Python Certification][fcc10-view]            |            |            |                               |
 | **THE ODIN PROJECT - FULL STACK JAVASCRIPT**
-| [Intermediate HTML and CSS][odinjs01]                               | 2022-05-03 |            | ⏳ (WIP)                      |
+| [Intermediate HTML and CSS][odinjs01]                               | 2022-05-03 |            | ⏳ WIP (41 / 52)              |
 | [Javascript][odinjs02]                                              |            |            |                               |
 | [Advanced HTML and CSS][odinjs03]                                   |            |            |                               |
 | [NodeJS][odinjs04]                                                  |            |            |                               |
