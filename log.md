@@ -6,6 +6,15 @@ The daily digest of my self-directed learnings.
 
 ---
 
+## 11 May 2022
+
+Completed the main lessons of the freeCodeCamp Quality Assurance Certification
+which included building a very simple (and incomplete) chat application using
+nodejs. I plan to split it into another project for my portfolio and polish it
+way up.
+
+---
+
 ## 10 May 2022
 
 Added basic socket communication to the lesson chat app for the freeCodeCamp.org
