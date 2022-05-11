@@ -6,6 +6,13 @@ The daily digest of my self-directed learnings.
 
 ---
 
+## 10 May 2022
+
+Added basic socket communication to the lesson chat app for the freeCodeCamp.org
+curriculum.
+
+---
+
 ## 9 May 2022
 
 Learned how to use the Nodejs package passport to do social login. Registered my
