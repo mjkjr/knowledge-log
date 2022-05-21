@@ -6,6 +6,21 @@ The daily digest of my self-directed learnings.
 
 ---
 
+## 21 May 2022
+
+Today I completed the first of the projects for the freeCodeCamp Quality
+Assurance Certification. Submitting the work was a pain as there is a problem
+with the tests that freeCodeCamp.org runs against the specific project code
+which fails when this project is hosted on Glitch.com due to Glitch removing a
+double forward-slash from a GET request URL. So the local tests pass but the one
+sent remotely from fcc fails due to the input being changed before reaching the
+code. I had to find an alternative host to use for this project in order to
+submit it to fcc and I landed on [Code Sandbox](https://codesandbox.io/u/mjkjr).
+The interface seems nice there, I'll give it a try, though I like the simplicity
+of Glitch's interface for these basic projects.
+
+---
+
 ## 11 May 2022
 
 Completed the main lessons of the freeCodeCamp Quality Assurance Certification
