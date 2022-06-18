@@ -6,6 +6,17 @@ The daily digest of my self-directed learnings.
 
 ---
 
+## 18 June 2022
+
+I've been very busy at work and as a result have had little time to move forward
+with my studies and projects. Today I worked on converting my brick-and-mortar
+business' website to nodeJS with an eye toward building it into an e-commerce
+web app for managing my business. I still have a lot of work to do but the
+framework is coming together. I'm using the [ETA](https://eta.js.org/) view
+engine for HTML templating.
+
+---
+
 ## 21 May 2022
 
 Today I completed the first of the projects for the freeCodeCamp Quality
