@@ -6,6 +6,18 @@ The daily digest of my self-directed learnings.
 
 ---
 
+## 20 June 2022
+
+Worked on the freeCodeCamp Quality Assurance Certification "Issue Tracker"
+project some more today. Writing tests is a real pain but I certainly have
+gained an understanding of how important they are in making sure code is doing
+exactly what you expect. I'm about halfway done with the 2nd project of the
+certification. I'm looking forward to completing this cert and moving onto the
+Information Security Certification. I want to make sure when building my
+application that I bake in best practices for both testing and security.
+
+---
+
 ## 18 June 2022
 
 I've been very busy at work and as a result have had little time to move forward
