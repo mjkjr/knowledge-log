@@ -6,6 +6,12 @@ The daily digest of my self-directed learnings.
 
 ---
 
+## 21 June 2022
+
+Completed the "Issue Tracker" project today.
+
+---
+
 ## 20 June 2022
 
 Worked on the freeCodeCamp Quality Assurance Certification "Issue Tracker"
