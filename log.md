@@ -6,9 +6,21 @@ The daily digest of my self-directed learnings.
 
 ---
 
+## 26 June 2022
+
+Completed the freeCodeCamp Quality Assurance Certification "Personal Library"
+project today. Writing unit tests is becoming easier the more I practice it and
+I'm very glad to have learned this skill. I have a greater appreciation for it's
+usefulness as I've worked through these projects and seen first-hand the way
+such test can help catch edge-cases. It forces one to properly define each piece
+of a problem and it's solution more carefully.
+
+---
+
 ## 21 June 2022
 
-Completed the "Issue Tracker" project today.
+Completed the freeCodeCamp Quality Assurance Certification "Issue Tracker"
+project today.
 
 ---
 
